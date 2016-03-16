@@ -98,7 +98,25 @@ img {width:100%;}
 
 
 /*PAGE TWO STYLING*/
+.video-wrapper{
 
+}
+.header-wrapper{
+	padding: 20px 0;
+	border-bottom: 1px solid black;
+	border-top: 2px solid black;
+}
+h2{
+	margin: 10px 0;
+}
+h2 span{
+	color: red;
+}
+.broadcast{
+	color: #737373;
+	margin-bottom: 10px;
+	font-size: 12px;
+}
 
 
 
