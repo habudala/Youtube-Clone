@@ -102,12 +102,14 @@ img {width:100%;}
 
 }
 .header-wrapper{
-	padding: 20px 0;
+	padding-top: 20px;
+	padding-bottom: 10px;
 	border-bottom: 1px solid black;
 	border-top: 2px solid black;
 }
 h2{
-	margin: 10px 0;
+	margin-top: 10px;
+	margin-bottom: 5px;
 }
 h2 span{
 	color: red;
@@ -117,6 +119,95 @@ h2 span{
 	margin-bottom: 10px;
 	font-size: 12px;
 }
+.search-bar-wrapper{
+	margin-top: 25px;
+}
+.search-bar-wrapper button{
+	width: 23%;
+	margin-left: 2%;
+}
+.search-footer{
+	padding: 5px 0;
+	clear: both;
+}
+.search-footer div{
+	font-size: 15;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: underline;	
+	border-right: 1px solid black;
+}
+.search-footer .videos{
+	text-decoration: none;
+	font-weight: normal;
+	color: #737373;
+}
+.search-footer .channels{
+	border: none;
+}
+.sign-in-wrapper{
+	margin-top: 25px;
+	font-size: 13px;
+}
+.create-signin{
+	float: right;
+}
+.subscriptions{
+	margin-top: 15px;
+	clear: both;
+	float: right;
+}
+.video-title{
+	font-size: 20px;
+	margin: 15px 0;
+}
+iframe{
+	width: 100%;
+	min-height: 600px;
+}
+.comments-title{
+	margin-top: 20px;
+}
+.comments{
+	margin: 15px 0;
+}
+.profile-box{
+	border: 1px solid black;
+	padding: 10px 10px 10px 25px;
+}
+.profile-box h4{
+	margin-top: 0;
+}
+.profile-box button{
+	float: right;
+}
+.profile-disc{
+	padding-right: 20px;
+}
+.related-videos{
+	margin: 40px 0;
+	overflow: hidden;
+}
+.related-links{
+	margin-bottom: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
