@@ -2,101 +2,51 @@
 	margin: 0 1%;
 }
 img {width:100%;}
-.minipic {clear:both;}
+
+.row.third{
+	margin-top: 20px;
+}
+
+.minipic.one {margin-top:17px;}
+
+.minipic {clear:both;
+		  margin-bottom:15px;}
+
+.miniDescription.one {margin-top:25px;}
+
+.miniDescription.two {margin-top:6px;}
+
+.miniDescription.three {margin-top:6px;}
 
 .related-videos {clear:both;}
 
+.vidback {background-color: grey;}
 
+#mainImage {margin-bottom:10px;}
 
+.main-vid-text {font-size: 11px;}
 
+.mediDescription {font-size:13px;
+				  margin-top:7px;}
 
+.more{background-color:grey;
+		margin-left: -1%;}
 
+.footer-disc {font-size:9px;
+			  margin-top:10px;}
 
+.thumb-wrapper {background-color:grey;
+				margin-left: -1%;
+				}
 
+.footer-pic {margin-top:10px;
+			margin-bottom:20px;}
 
+.trade {font-size:12px;}
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.row.fourth {margin-top:20px;}
 /*PAGE TWO STYLING*/
 .video-wrapper{
 
