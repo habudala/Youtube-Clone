@@ -82,7 +82,7 @@
 
 			<div class="col-xs-12 col-sm-4 col-md-4">
 				<div class="col-xs-12 col-sm-12 col-md-12">
-				<a href="#" data-toggle="modal" data-target="#rob">
+				<a data-toggle="modal" data-target="#myModal" src="#">
 					<img id="theimg"src="images/rob-before-dc.png">
 				</a>
 				</div>
@@ -137,18 +137,26 @@
 
 		</div>
 
-	<!-- Large modal -->
-<button type="button" class="btn btn-primary" data-toggle="modal" data-target=".modal-content">Large modal</button>
 
-<div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
-  <div class="modal-dialog modal-lg">
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
     <div class="modal-content">
-      	<img class="rob" src="images/rob-before-dc.png"/>
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+      </div>
+      <div class="modal-body">
+        	<img id="rob" src="images/rob-before-dc.png"/>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Subscribe for more images like this!</button>
+      </div>
     </div>
   </div>
 </div>
-
-	</div>
 
 
 
