@@ -20,18 +20,20 @@ img {width:100%;}
 
 #mainImage {margin-bottom:10px;}
 
-.conts {margin-bottom:50px;}
-
 .main-vid-text {font-size: 11px;}
 
 .mediDescription {font-size:13px;
 				  margin-top:7px;}
-.more{background-color:grey;}
+
+.more{background-color:grey;
+		margin-left: -1%;}
 
 .footer-disc {font-size:9px;
 			  margin-top:10px;}
 
-.thumb-wrapper {background-color:grey;}
+.thumb-wrapper {background-color:grey;
+				margin-left: -1%;
+				}
 
 .footer-pic {margin-top:10px;
 			margin-bottom:20px;}
@@ -40,7 +42,7 @@ img {width:100%;}
 
 
 
-
+.row.fourth {margin-top:20px;}
 
 
 
