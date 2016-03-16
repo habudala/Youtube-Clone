@@ -2,9 +2,43 @@
 	margin: 0 1%;
 }
 img {width:100%;}
-.minipic {clear:both;}
+
+.minipic.one {margin-top:17px;}
+
+.minipic {clear:both;
+		  margin-bottom:15px;}
+
+.miniDescription.one {margin-top:25px;}
+
+.miniDescription.two {margin-top:6px;}
+
+.miniDescription.three {margin-top:6px;}
 
 .related-videos {clear:both;}
+
+.vidback {background-color: grey;}
+
+#mainImage {margin-bottom:10px;}
+
+.conts {margin-bottom:50px;}
+
+.main-vid-text {font-size: 11px;}
+
+.mediDescription {font-size:13px;
+				  margin-top:7px;}
+.more{background-color:grey;}
+
+.footer-disc {font-size:9px;
+			  margin-top:10px;}
+
+.thumb-wrapper {background-color:grey;}
+
+.footer-pic {margin-top:10px;
+			margin-bottom:20px;}
+
+.trade {font-size:12px;}
+
+
 
 
 
