@@ -7,6 +7,9 @@ img {width:100%;}
 	margin-top: 20px;
 }
 
+.broadcast2 {padding-left:15%;
+			color:grey;}
+
 .minipic.one {margin-top:10px;}
 
 .minipic {clear:both;
@@ -24,7 +27,7 @@ img {width:100%;}
 
 #mainImage {margin-bottom:10px;}
 
-.main-vid-text {font-size: 11px;}
+.main-vid-text {font-size: 13px;}
 
 .mediDescription {font-size:13px;
 				  margin-top:7px;}
@@ -32,7 +35,7 @@ img {width:100%;}
 .more{background-color:grey;
 		margin-left: -1%;}
 
-.footer-disc {font-size:9px;
+.footer-disc {font-size:12px;
 			  margin-top:10px;}
 
 .thumb-wrapper {background-color:grey;
@@ -69,6 +72,8 @@ h2 span{
 	margin-bottom: 10px;
 	font-size: 12px;
 }
+
+.sig {font-weight:bold;}
 .search-bar-wrapper{
 	margin-top: 25px;
 }
